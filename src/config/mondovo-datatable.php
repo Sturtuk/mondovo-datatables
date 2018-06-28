@@ -19,7 +19,7 @@ return [
 	'manager_url' => '',
 	'kd_modal_url' => '',
 	'stop_words_list' => [
-		file_get_contents('https://app.mondovo.live/dummy_files/onPage/stopWords/stop_words.txt'),
-		file_get_contents('https://app.mondovo.live/dummy_files/onPage/stopWords/stop_words_first.txt')
+// 		file_get_contents('https://app.mondovo.live/dummy_files/onPage/stopWords/stop_words.txt'),
+// 		file_get_contents('https://app.mondovo.live/dummy_files/onPage/stopWords/stop_words_first.txt')
 	]
 ];
